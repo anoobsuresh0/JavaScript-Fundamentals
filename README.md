@@ -1,7 +1,7 @@
 # JavaScript-Fundamentals
 Notes and Basic Code you need to know for using JavaScript
 
-JavaScript Codes
+<h1>JavaScript Codes</h1>
 
 
 Javascipt Variables
