@@ -86,3 +86,6 @@ Block Scope
 Function Scope
 Global Scope
 
+
+
+<h1>To run in terminal use code "node {file name}"</h1>
