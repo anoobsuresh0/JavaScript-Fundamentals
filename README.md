@@ -4,7 +4,7 @@ Notes and Basic Code you need to know for using JavaScript
 <h1>JavaScript Codes</h1>
 
 
-Javascipt Variables
+<h2>Javascipt Variables</h2>
 
 Let and Const
 
@@ -18,7 +18,7 @@ const salary=7000
 console.log(salary);
 
 
-Javascipt Data types
+<h2>Javascipt Data types</h2>
 
 Primitive
 
@@ -36,7 +36,7 @@ Objects
 
  For Above Code in File
 
-JavaScript Operators
+<h2>JavaScript Operators</h2>
 
 Special Symbols used to perform operations on value and variables
 
@@ -48,7 +48,7 @@ String operator
 Other operator
 
 
-JavaScript Type Conversion
+<h2>JavaScript Type Conversion</h2>
 
 Convert one type to another
 Implicit conversion (type coercion) - JavaScript automatically convert
@@ -62,14 +62,14 @@ Else
 Else if
 Switch
 
-JavaScript Looping
+<h2>JavaScript Looping</h2>
 
 For loop
 While loop
 Do while loop
 For of loop
 
-JavaScript Functions
+<h2>JavaScript Functions</h2>
 
 Block of code design to perform a particular task
 Eg: Add two numbers, multiply two numbers
@@ -80,7 +80,7 @@ Resulting in different results
 Divide comple problem into simple one
 
 
-JavaScript Scope 
+<h2>JavaScript Scope </h2>
 
 Block Scope
 Function Scope
